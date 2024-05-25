@@ -54,13 +54,17 @@ a {
 
 
 .boots {
-  background-image: url(/src/img/group37\(1\)1\(1\).png);
+  background-image: url("/src/img/group37\(1\)1\(1\).png");
   height: 858px;
   width: 1440px;
 }
 
 .q{
   font-size: 48px;
+}
+
+.si{
+  padding-left: 15px;
 }
 
 
@@ -114,7 +118,7 @@ a {
 }
 
 .grafiti {
-  background-image: url(/src/img/za1.png);
+  background-image: url("/src/img/za1.png");
   height: 606px;
   width: 1440px;
   display: flex;
@@ -164,7 +168,7 @@ a {
 
 
 .Reviews {
-  background-image: url(/src/img/wdbns.png), url(/src/img/za2.png);
+  background-image: url("/src/img/wdbns.png"), url("/src/img/za2.png");
   background-repeat: no-repeat;
   background-position: bottom left;
   
@@ -286,7 +290,7 @@ font-size: 14px;
 .order {
 
   height: 509px;
-  background-image: url(/src/img/za3.png);
+  background-image: url("/src/img/za3.png") ;
 }
 
 .h{
